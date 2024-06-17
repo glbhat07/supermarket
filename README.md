@@ -11,6 +11,6 @@ ADVANTAGES:
 
 2]Billing of the products will be easier and automatic.
 
-3]Costumer can see all the available items in the store and no need of asking the shopkeeper whether it is available or not.
+3]Customer can see all the available items in the store and no need of asking the shopkeeper whether it is available or not.
 
 
